@@ -1,4 +1,4 @@
-'Use strickt'
+'Use strict'
 
 //
 // The filer Method
