@@ -1,5 +1,5 @@
 
-// Math and rounding
+// Converting and checking numbers
 
 console.log(23 === 23.0);
 
